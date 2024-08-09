@@ -1,0 +1,16 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+h1 {
+    color: darkblue;
+}
+p {
+    color: darkgray;
+}
+container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
